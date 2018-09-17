@@ -1,5 +1,8 @@
 # LBG_Node_assignment
 
+running at localhost:3001
+
+The routes are as follows:
 1.REST_api_1 for Write a nodejs server that listens on port 3001 and outputs a file content from any local directory
 
 Method type : GET
